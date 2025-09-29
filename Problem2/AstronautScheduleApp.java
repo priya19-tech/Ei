@@ -55,7 +55,7 @@ public class AstronautScheduleApp {
                         System.out.println("Invalid choice.");
                 }
             } catch (Exception e) {
-                System.out.println("⚠️ " + e.getMessage());
+                System.out.println(" " + e.getMessage());
             }
         }
     }

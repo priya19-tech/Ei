@@ -34,12 +34,26 @@ esign Patterns Used
 Project Structure:
 AstronautScheduleOrganizer/
  ├── src/
+
+ 
  │   ├── Task.java
+
+ 
  │   ├── TaskFactory.java
+
+ 
  │   ├── ConflictObserver.java
+
+ 
  │   ├── ConflictNotifier.java
+
+ 
  │   ├── ScheduleManager.java
+
+ 
  │   └── AstronautScheduleApp.java
+
+ 
  └── README.md
  Run Instructions:
 

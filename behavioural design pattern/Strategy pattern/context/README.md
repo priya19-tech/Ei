@@ -1,4 +1,6 @@
 Food Delivery Service:
+
+
 This is a simple Java application that simulates a food delivery service, demonstrating the Strategy design pattern. The application allows a user to select different delivery methods, each with its own cost and delivery time.
 
 Design Pattern:
@@ -22,11 +24,14 @@ DeliveryContext.java: This is the Context class. It holds a reference to a Deliv
 Main.java: The client class that drives the application. It creates a DeliveryContext and allows the user to choose a delivery strategy at runtime, which is then set on the context.
 
 Run:
+
 Prerequisites
 Java Development Kit (JDK) 8 or higher.
 
 Compile the Java files:
+
 javac strategies/*.java context/*.java Main.java
 
 Run the application:
+
 java Main

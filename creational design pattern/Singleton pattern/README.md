@@ -1,5 +1,7 @@
 Singleton Pattern Demo: 
+
 City Electricity Grid Manager
+
 This Java project is a simple command-line application that demonstrates the Singleton Design Pattern. It simulates a central ElectricityGridManager for a city, which is responsible for tracking the total power consumed by various consumers. The core principle of the Singleton pattern is to ensure that only one instance of this manager can exist throughout the application's lifecycle, providing a single, global point of access to it.
 
 Design Pattern: Singleton

@@ -26,6 +26,6 @@ public class Task {
     @Override
     public String toString() {
         return startTime + " - " + endTime + ": " + description + " [" + priority + "]" +
-                (completed ? " ✅" : "");
+                (completed ? " " : "");
     }
 }

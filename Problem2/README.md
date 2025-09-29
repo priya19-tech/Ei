@@ -41,3 +41,15 @@ AstronautScheduleOrganizer/
  │   ├── ScheduleManager.java
  │   └── AstronautScheduleApp.java
  └── README.md
+ Run Instructions:
+
+Clone or Download this repository.
+
+Open terminal in the src/ folder.
+
+Compile all Java files:
+
+javac *.java
+java AstronautScheduleApp
+
+

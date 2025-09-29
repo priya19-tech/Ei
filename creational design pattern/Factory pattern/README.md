@@ -1,4 +1,5 @@
-Ride Booking System - Factory Pattern 
+Ride Booking System - Factory Pattern:
+
 This is a simple command-line based ride-booking application written in Java. The project's main purpose is to demonstrate a practical application of the Factory Design Pattern. It allows a user to book different types of rides, and the system creates the appropriate ride object without exposing the creation logic to the main application.
 
 Features:
